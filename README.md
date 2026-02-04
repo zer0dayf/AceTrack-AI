@@ -29,7 +29,7 @@ AceTrack AI is a professional-grade computer vision application designed for rea
 To get the analytics engine running on your local machine, execute the following steps:
 
 1. Clone the Repository:
-   git clone https://github.com/onerefegungor/AceTrack-AI.git
+   git clone https://github.com/zer0dayf/AceTrack-AI.git
    cd AceTrack-AI
 
 2. Install Dependencies:
